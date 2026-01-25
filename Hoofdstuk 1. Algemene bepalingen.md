@@ -12,8 +12,10 @@
 3. Zo een organieke rijkswet regelt:
    - geldelijke voorzieningen voor de Koning;
    - de waarneming van het koningschap in buitengewone omstandigheden.
-### Overgangsbepaling
+### Overgangsbepaling 
 Het tweede en derde lid van dit artikel treden pas in werking als zo een organieke rijkswet is aangenomen; vóór die tijd voorziet de Grondwet hierin.
 ## Artikel 4. Oppergezag van het Statuut
-1. Dit Statuut is de hoogste wet binnen het Koninkrijk; de wetgeving die hiermee in strijd is, is ongeldig.
-2. De federale overheid bezit alléén de bevoegdheden die uitdrukkelijk bij of krachtens het Statuut of de rijkswet tot aangelegenheid van het Koninkrijk zijn verklaard.
+1. Dit Statuut is de hoogste wet binnen het Koninkrijk; wetgeving die hiermee in strijd is, is ongeldig, en de verplichtingen hierdoor opgelegd, moeten worden nagekomen.
+2. Overheidsinstellingen bezitten slechts de bevoegdheden die hun uitdrukkelijk bij of krachtens de wet zijn toegekend.
+3. De federale overheid bezit daarentegen slechts de bevoegdheden die haar uitdrukkelijk bij of krachtens het Statuut of de Rijkswet zijn toegekend.
+4. 
