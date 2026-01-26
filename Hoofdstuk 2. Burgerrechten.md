@@ -2,14 +2,14 @@
 
 ## § 1. Toepassing
 
-### Artikel 1. 
+### Artikel 5. 
 
 ## § 2. Klassieke burgerrechten
-### Artikel 2. Gelijkheid
+### Artikel 6. Gelijkheid
 1. Iedereen is voor de wet gelijk.
 2. Iedereen heeft recht op gelijke bescherming van zijn persoon en goederen.
 
-### Artikel 3. Straf
+### Artikel 7. Straf
 1. Geen delict is strafbaar dan uit voorafgaande wettelijke bepaling.
 2. Niemand zal worden onderworpen aan de doodstraf, lijfstraffen, de burgelijke dood, folteringen, noch aan enig andere onmenselijke of vernederende straf of behandeling.
 
