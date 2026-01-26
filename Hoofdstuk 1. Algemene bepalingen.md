@@ -15,5 +15,5 @@
 #### Overgangsbepaling 
 De tweede en derde leden van dit artikel treden pas in werking als de Organieke rijkswet is aangenomen; vóór die tijd voorziet de Grondwet hierin.
 ### Artikel 4. Oppergezag van het Statuut
-1. Dit Statuut is de belangerijkste wet van het Koninkrijk; de wetgeving die met het Statuut in strijd is, is per definitie ongeldig.
+1. Dit Statuut is de hoogste wet binnen het Koninkrijk; alle wetgeving die met het Statuut in strijd is, is per definitie ongeldig.
 2. 
