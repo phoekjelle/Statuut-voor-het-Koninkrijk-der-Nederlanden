@@ -1,5 +1,5 @@
 # Hoofdstuk 1. Algemene bepalingen
-### Artikel 1. Federatie
+### Artikel 1. Federale Staat
 1. Het Koninkrijk is een federale Staat, samengesteld uit de landen.
 2. Het Koninkrijk omvat de landen: Aruba, Curaçao, Nederland en Sint-Maarten.
 3. Elk van de eilanden: Bonaire, Saba en Sint-Eustatius kan bij rijkswet een land ingevolge het tweede lid worden, mits de meerderheid van stemmen in een op dat eiland uitgeschreven referendum de landwording ondersteunt. Alles wat verder zo een referendum betreft, zal vooraf in een rijkswet worden geregelt.
