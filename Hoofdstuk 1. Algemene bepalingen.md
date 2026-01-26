@@ -13,7 +13,7 @@
    - geldelijke voorzieningen voor de Koning;
    - de waarneming van het koningschap in buitengewone omstandigheden.
 #### Overgangsbepaling 
-Het tweede en derde lid van dit artikel treden pas in werking als zo een organieke rijkswet is aangenomen; vóór die tijd voorziet de Grondwet hierin.
+De tweede en derde leden van dit artikel treden pas in werking als zo een organieke rijkswet is aangenomen; vóór die tijd voorziet de Grondwet hierin.
 ### Artikel 4. Oppergezag van het Statuut
 1. Dit Statuut is de hoogste wet binnen het Koninkrijk; wetgeving die hiermee in strijd is, is ongeldig, en de verplichtingen hierdoor opgelegd, moeten worden nagekomen.
 2. Overheidsinstellingen bezitten slechts de bevoegdheden die hun uitdrukkelijk bij of krachtens de wet zijn toegekend.
