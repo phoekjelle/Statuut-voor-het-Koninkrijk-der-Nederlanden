@@ -9,6 +9,9 @@
 1. Iedereen is voor de wet gelijk.
 2. Iedereen heeft recht op gelijke bescherming van zijn persoon en goederen.
 
+### Artikel 7. Leven
+Iedereen, vanaf zijn geboorte, heeft recht op leven; dit recht wordt bij wet beschermd.
+
 ### Artikel 7. Straf
 1. Geen delict is strafbaar dan uit voorafgaande wettelijke bepaling.
 2. Niemand zal worden onderworpen aan de doodstraf, lijfstraffen, de burgelijke dood, folteringen, noch aan enig andere onmenselijke of vernederende straf of behandeling.
