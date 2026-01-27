@@ -3,7 +3,7 @@
 ## § 1. Toepassing
 
 ### Artikel 5. Rechten
-De Grondrechten in dit hoofdstuk vormen de basis van de democratische rechtsstaat binnen het Koninkrijk. Zij beschermen de burgers tegen machtsmisbruik en dwingen de Staat om ieder mens waardig, eerlijk en gelijk te behandelen.
+
 
 ### Artikel 6. Toepassing
 1. Een bepaling in dit hoofdstuk is van toepassing op een natuurlijke of rechtspersoon indien, en voor zover dat relevant is, met inachtneming van de aard van het recht en de daaruit vloeiende verplichtingen.
