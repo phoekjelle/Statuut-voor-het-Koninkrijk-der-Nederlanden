@@ -1,7 +1,5 @@
 # Hoofdstuk 2. Burgerrechten
-
 ## § 1. Toepassing
-
 ### Artikel 5. Rechten
 
 
@@ -15,14 +13,19 @@
 
 ## § 2. Klassieke burgerrechten
 ### Artikel 6. Gelijkheid
-1. Iedereen is voor de wet gelijk.
+1. "Iedereen" omvat ieder persoon die zich in het grondgebied van het Koninkrijk bevindt of op andere wijze aan het staatsgezag onderworpen is.
+2. 
 2. Iedereen heeft recht op gelijke bescherming van zijn persoon en goederen.
 
 ### Artikel 7. Leven
 Iedereen, vanaf zijn geboorte, heeft recht op leven; dit recht wordt bij wet beschermd.
 
 ### Artikel 7. Straf
-1. Geen delict is strafbaar dan uit voorafgaande wettelijke bepaling.
+1. Geen delict is strafbaar dan volgens voorafgaande wettelijke bepaling.
 2. Niemand zal worden onderworpen aan de doodstraf, lijfstraffen, de burgelijke dood, folteringen, noch aan enig andere onmenselijke of vernederende straf of behandeling.
+### Artikel 8. Slavernij en dwangarbeid
+1. Niemand zal worden onderworpen aan slavernij, horigheid, dienstbaarheid, noch dwangarbeid.
+2. Elk mens zal door de wet beschermd worden tegen feitelijke: slavernij, horigheid, dienstbaarheid en dwangarbeid.
+2. 
 
 ## § 3. Sociale burgerrechten
