@@ -10,12 +10,10 @@
    - kan de rechter regels van het gemeen recht ontwikkelen om het recht te beperken, mits deze beperking in overeenstemming met artikel 35 is.
 3.	Een rechtspersoon kan aanspraak maken op een Grondrecht uit het Statuut, voor zover dit door de aard van het Grondrecht en de aard van deze rechtspersoon vereist is.
 4.	De Grondrechten uit het Statuut moeten worden geïnterpreteerd in overeenstemming met de Universele Verklaring van de Rechten van de Mens, evenals met de andere internationale verdragen en overeenkomsten inzake fundamentele rechten die door het Koninkrijk geratificeerd zijn.
-
 ## § 2. Klassieke burgerrechten
 ### Artikel 6. Gelijkheid
-1. "Iedereen" omvat ieder persoon die zich in het grondgebied van het Koninkrijk bevindt of op andere wijze aan het staatsgezag onderworpen is.
-2. 
-2. Iedereen heeft recht op gelijke bescherming van zijn persoon en goederen.
+1. Het woord "iedereen" in het Statuut omvat alle geboren, levende mensen die zich in het Koninkrijk bevinden of op andere wijze aan het staatsgezag onderworpen zijn.
+2. Iedereen is gelijk voor de wet en geniet de volledige en gelijke bescherming door het recht.
 
 ### Artikel 7. Leven
 Iedereen, vanaf zijn geboorte, heeft recht op leven; dit recht wordt bij wet beschermd.
