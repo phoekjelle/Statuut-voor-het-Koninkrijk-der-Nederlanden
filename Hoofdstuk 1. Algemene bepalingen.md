@@ -4,12 +4,14 @@
 2. Aruba, Curaçao, Nederland en Sint-Maarten zijn de landen binnen het Koninkrijk.
 3. Bonaire, Saba en Sint-Eustatius kunnen elk een land binnen het Koninkrijk worden, met de 
 ### Artikel 2. Democratische rechtsstaat
-Het Koninkrijk is een democratische rechtsstaat, hieraan ingevolge eerbiedigt en waarborgt het Koninkrijk:
- - de inherente menselijke waardigheid;
- - de gelijkheid van iedereen voor de wet;
- - de rechtszekerheid en de andere fundamentele rechtsbeginselen;
- - het algemeen kiesrecht voor volwassenen;
- - het parlementaire meerpartijenstelsel met regelmatige, democratische verkiezingen.
+1. Het Koninkrijk is een democratische rechtsstaat.
+2. Het Koninkrijk waarborgt en respecteert:
+     - de inherent menselijke waardigheid;
+     - de gelijkheid van iedereen voor de wet;
+     - de rechtszekerheid;
+     - het algemeen kiesrecht voor volwassenen in een parlementair meerpartijenstelsel;
+      - de regelmatigheid van democratische verkiezingen;
+      - de overige fundamentele menselijke rechten en vrijheden.
 ### Artikel 3. Koning
 1. De Koning is het symbool van de natie en de eenheid van het volk; hij ontleent zijn positie aan de wil van het volk, bij wie de soevereine macht berust.
 2. Het koningschap vererft of gaat in buitengewone omstandigheden anders over volgens regels te stellen bij organieke rijkswet.
