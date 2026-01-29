@@ -14,7 +14,7 @@
 ### Artikel 6. Gelijkheid
 1. In het Statuut omvat het woord "iedereen" alle geboren, levende mensen die zich in het Koninkrijk bevinden of anderszins aan het gezag daarvan onderworpen zijn; het woord "niemand" sluit daarentegen al diezelfde mensen uit.
 2. Iedereen is gelijk voor de wet, en geniet de volledige en gelijke bescherming door het recht.
-3. 
+3. Feit
 
 ### Artikel 7. Leven
 Iedereen, vanaf zijn geboorte, heeft recht op leven; dit recht wordt bij wet beschermd.
