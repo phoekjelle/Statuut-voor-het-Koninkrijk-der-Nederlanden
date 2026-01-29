@@ -12,8 +12,9 @@
 4.	De Grondrechten uit het Statuut moeten worden geïnterpreteerd in overeenstemming met de Universele Verklaring van de Rechten van de Mens, evenals met de andere internationale verdragen en overeenkomsten inzake fundamentele rechten die door het Koninkrijk geratificeerd zijn.
 ## § 2. Klassieke burgerrechten
 ### Artikel 6. Gelijkheid
-1. Het woord "iedereen" in het Statuut omvat alle geboren, levende mensen die zich in het Koninkrijk bevinden of op andere wijze aan het staatsgezag onderworpen zijn.
-2. Iedereen is gelijk voor de wet en geniet de volledige en gelijke bescherming door het recht.
+1. In het Statuut omvat het woord "iedereen" alle geboren, levende mensen die zich in het Koninkrijk bevinden of anderszins aan het gezag daarvan onderworpen zijn; het woord "niemand" sluit daarentegen al diezelfde mensen uit.
+2. Iedereen is gelijk voor de wet, en geniet de volledige en gelijke bescherming door het recht.
+3. 
 
 ### Artikel 7. Leven
 Iedereen, vanaf zijn geboorte, heeft recht op leven; dit recht wordt bij wet beschermd.
