@@ -1,12 +1,17 @@
 # Hoofdstuk 2. Burgerrechten
 
+## § 1. Inleiding en toepassing
+
 ### Artikel 5. Rechten
-- De rechten in dit hoofdstuk beschermen de burger tegen willekeur en machtsmisbruik door de staat, en vormen de basis van de democratische rechtsstaat in het Koninkrijk.
-- De staat is gebonden aan de verboden en verplichtingen van 
+- De rechten in dit hoofdstuk vormen de basis voor de democratische rechtsstaat in het Koninkrijk.
+- Dit hoofdstuk is onderverdeeld in paragrafen: § 2 omvat de klasieke burgerrechten en § 3 omvat de sociale burgerrechten.
+- De klassieke burgerrechten dwingen de overheid om iedereen als mens te behandelen zonder machtsmisbruik en willekeur. Deze rechten zijn onschendbaar.
+- De sociale burgerrechten verplichten de overheid om maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben.
 
-
-### Artikel 5. Toepassing
-1. Een bepaling in dit hoofdstuk is van toepassing op een natuurlijke of rechtspersoon indien, en voor zover dat relevant is, met inachtneming van de aard van het recht en de daaruit vloeiende verplichtingen.
+### Artikel 6. Toepassing
+1. Een recht in dit hoofdstuk is pas van toepassing op een natuurlijke of rechtelijk persoon als, en voor zover het relevant is, ten aanzien van de rechtsaard en de daaruit vloeiende plicht.
+2. 
+1. Een recht in dit hoofdstuk is van toepassing op een natuurlijke of rechtelijke persoon indien, en voor zover dat relevant is, met inachtneming van de aard van het recht en de daaruit vloeiende verplichtingen.
 2. Om een bepaling in dit hoofdstuk op een natuurlijke of een rechtspersoon, ingevolge het vorige lid, toe te passen:
    - moet de rechter, om gevolg te geven aan een Grondrecht in dit hoofdstuk, de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg aan dat Grondrecht geeft; en
    - kan de rechter regels van het gemeen recht ontwikkelen om het recht te beperken, mits deze beperking in overeenstemming met artikel 35 is.
