@@ -9,10 +9,7 @@
 - De sociale burgerrechten verplichten de overheid om maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben. 
 
 ### Artikel 6. Toepassing
-1. Enige bepalingen in dit hoofdstuk zijn pas bindend voor
-2. Een bepaling in dit hoofdstuk is pas bindend voor een natuurlijke of rechtelijke persoon als, en voor zover, deze toepasbaar is, gelet op de aard van: het recht, en de daaruit vloeiende plicht.
-2. 
-1. Een recht in dit hoofdstuk is van toepassing op een natuurlijke of rechtelijke persoon indien, en voor zover dat relevant is, met inachtneming van de aard van het recht en de daaruit vloeiende verplichtingen.
+1. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtelijke persoon indien, en voor zover, deze toepasbaar is met inachtneming van  de aard van het recht en de aard van enig door het recht opgelegde plicht.
 2. Om een bepaling in dit hoofdstuk op een natuurlijke of een rechtspersoon, ingevolge het vorige lid, toe te passen:
    - moet de rechter, om gevolg te geven aan een Grondrecht in dit hoofdstuk, de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg aan dat Grondrecht geeft; en
    - kan de rechter regels van het gemeen recht ontwikkelen om het recht te beperken, mits deze beperking in overeenstemming met artikel 35 is.
