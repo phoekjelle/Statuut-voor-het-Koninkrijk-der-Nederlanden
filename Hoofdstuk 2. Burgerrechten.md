@@ -4,13 +4,13 @@
 
 ### Artikel 5. Rechten
 - De rechten in dit hoofdstuk vormen de basis voor de democratische rechtsstaat in het Koninkrijk.
-- Dit hoofdstuk is onderverdeeld in paragrafen: § 2 omvat de klasieke burgerrechten en § 3 omvat de sociale burgerrechten.
-- De klassieke burgerrechten dwingen de overheid om iedereen als waardig mens te behandelen zonder machtsmisbruik of willekeur. Deze rechten zijn onschendbaar.
+- Dit hoofdstuk is onderverdeeld in paragrafen: § 2. omvat de klassieke burgerrechten en § 3. omvat de sociale burgerrechten.
+- De klassieke burgerrechten dwingen de overheid om iedereen als waardig mens te behandelen zonder machtsmisbruik of willekeur.
 - De sociale burgerrechten verplichten de overheid om maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben. 
 
 ### Artikel 6. Toepassing
-1. De rechten in dit hoofdstuk zijn bindend voor  alle machten van de staat.
-1. Een recht in dit hoofdstuk is pas van toepassing op een natuurlijke of rechtelijk persoon als, en voor zover het relevant is, ten aanzien van de rechtsaard en de daaruit vloeiende plicht.
+1. Enige bepalingen in dit hoofdstuk zijn pas bindend voor
+2. Een bepaling in dit hoofdstuk is pas bindend voor een natuurlijke of rechtelijke persoon als, en voor zover, deze toepasbaar is, gelet op de aard van: het recht, en de daaruit vloeiende plicht.
 2. 
 1. Een recht in dit hoofdstuk is van toepassing op een natuurlijke of rechtelijke persoon indien, en voor zover dat relevant is, met inachtneming van de aard van het recht en de daaruit vloeiende verplichtingen.
 2. Om een bepaling in dit hoofdstuk op een natuurlijke of een rechtspersoon, ingevolge het vorige lid, toe te passen:
