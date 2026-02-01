@@ -7,7 +7,7 @@
 - Dit hoofdstuk is onderverdeeld in paragrafen: § 2. omvat de klassieke burgerrechten, § 3. omvat de sociale burgerrechten en § 4. omvat de beperkingen van burgerrechten.
 - De klassieke burgerrechten verplichten de overheid om ons menswaardig en gelijk in rechten behandelen zonder machtsmisbruik of willekeur.
 - De sociale burgerrechten verplichten de overheid om de maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben.
-- De burgerrechten kunnen slechts beperkt worden als de beperking voldoet aan de voorwaardes in § 4. en de 
+- De burgerrechten kunnen slechts beperkt worden als deze beperking verenigbaar is met de voorwaardes in § 4. en met de beginselen van de democratische rechtsstaat.
 
 ### Artikel 6. Toepassing
 1. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
