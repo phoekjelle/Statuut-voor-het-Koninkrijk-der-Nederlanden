@@ -14,7 +14,7 @@
      - de rechtszekerheid en de toegankelijkheid van het recht;
      - het algemeen kiesrecht voor volwassenen in een parlementair meerpartijenstelsel;
      - de regelmatigheid van representatieve democratische verkiezingen;
-     - de overige fundamentele: mensenrechten, rechtsbeginselen en vrijheden.
+     - de overige fundamentele rechten en vrijheden.
 
 ### Artikel 3. Koning
 1. De Koning is het symbool van de natie en de eenheid van het volk; hij ontleent zijn positie aan de wil van het volk, bij wie de soevereine macht berust.
@@ -28,7 +28,7 @@
 Vóórdat een organieke rijkswet met betrekking tot de leden 3 en 4 is aangenomen, worden deze leden geacht niet te bestaan: ten behoeve van de rechtszekerheid blijven de bepalingen in de Grondwet tot die tijd van kracht.
 
 ### Artikel 4. Oppergezag van het Statuut
-1. Dit Statuut is de hoogste wet binnen het Koninkrijk; wettelijke voorschriften blijven buiten toepassing, indien die toepassing niet verenigbaar is met de bepalingen van het Statuut of de beginselen van de democratische rechtsstaat.
+1. Dit Statuut is de hoogste wet binnen het Koninkrijk; wettelijke voorschriften blijven buiten toepassing, indien die toepassing niet verenigbaar is met de bepalingen in het Statuut of de beginselen van de democratische rechtsstaat.
 2. De bevoegdheden die niet uitdrukkelijk bij of krachtens het Statuut of de rijkswet aan de federale overheid zijn gedeligeerd, noch bij het Statuut aan de landen verboden zijn, zijn voorbehouden aan de respectievelijke wetgevende machten van de landen.
 3. Elk der landen behartigt zelfstandig zijn eigen bevoegdheden, maar de belangen van de federale overheid zijn mede een voorwerp van zorg voor de landen.
 
