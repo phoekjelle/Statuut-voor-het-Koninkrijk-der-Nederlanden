@@ -25,7 +25,7 @@
      - de waarneming van het koningschap in buitengewone omstandigheden.
 
 #### Overgangsbepaling
-Vóórdat een organieke rijkswet met betrekking tot de leden 3 en 4 is aangenomen, worden deze leden geacht niet te bestaan: ten behoeve van de rechtszekerheid blijven de bepalingen in de Grondwet tot die tijd van kracht.
+(Vóórdat een organieke rijkswet met betrekking tot de leden 3 en 4 is aangenomen, worden deze leden geacht niet te bestaan: ten behoeve van de rechtszekerheid blijven de bepalingen in de Grondwet tot die tijd van kracht.)
 
 ### Artikel 4. Oppergezag van het Statuut
 1. Dit Statuut is de hoogste wet binnen het Koninkrijk; wettelijke voorschriften blijven buiten toepassing, indien die toepassing niet verenigbaar is met de bepalingen in het Statuut of de beginselen van de democratische rechtsstaat.
