@@ -25,7 +25,7 @@ Vóórdat de organieke rijkswet ingevolge van lid 3 is aangenomen, blijft de Gro
 2. Aruba, Curaçao, Nederland en Sint-Maarten zijn de landen binnen het Koninkrijk.
 3. Bij rijkswet kunnen Bonaire, Saba en San Eustatius elk een land binnen het Koninkrijk worden, ingevolge lid 2, maar dit vereist een meerderheid van ja-stemmen in een referendum.
 4. Alles wat verder het referendum betreft wordt geregeld bij organieke rijkswet.
-### Artikel 5. Residuele bevoegdheden
-De bevoegdheden die niet uitdrukkelijk bij of krachtens het Statuut of de rijkswet aan de federale overheid zijn gedelegeerd, noch door het Statuut aan de landen zijn verboden, berusten bij de respectievelijke landsparlementen.
+### Artikel 5. Residuele bevoegdheden 
+De bevoegdheden die niet uitdrukkelijk bij of krachtens het Statuut of de rijkswet aan de federale overheid zijn toegekend, berusten bij de respectievelijke landsparlementen.
 ### Artikel 6. Staatsregelingen van de landen
 De landen regelen hun staatsinrichting in hun eigen Staatsregelingen; om historische redenen omvat de Grondwet de Staatsregeling van Nederland. Om de leesbaarheid van het Statuut te vergroten wordt met de woorden “Staatsregelingen van de landen” en de grammaticale vervoegingen daarvan tevens de Grondwet als Staatsregeling van Nederland bedoeld.
