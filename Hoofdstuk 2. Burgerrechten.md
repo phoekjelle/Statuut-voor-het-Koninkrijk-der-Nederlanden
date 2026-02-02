@@ -1,9 +1,9 @@
 # Hoofdstuk 2. Burgerrechten
 ## § 1. Inleiding en toepassing
 ### Artikel 7. Rechten
-De burgerrechten vormen de basis van de democratische rechtsstaat en de samenleving in het Koninkrijk. Dit hoofdstuk omvat klassieke en de sociale burgerrechten:
-   - De klassieke burgerrechten verplichten de overheid om iedereen menswaardig en gelijk in rechten behandelen zonder machtsmisbruik of willekeur.
-   - De sociale burgerrechten verplichten de overheid om de maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben.
+De burgerrechten vormen de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Ze zijn onderverdeeld in klassieke en sociale burgerrechten:
+- De klasieke burgerrechten zijn onschendbaar; de staat moet ze nakomen. Ze beschermen tegen machtsmisbruik en willekeur.
+- De sociale burgerrechten geven de staat de opdracht voor iedereen maatschappelijke voorzieningen te verschaffen. Ze kunnen niet direct in rechte worden afgedwongen.
 ### Artikel 8. Toepassing
 1. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
 2. Bij de toepassing van een bepaling in dit hoofdstuk op een natuurlijke of rechtspersoon ingevolge het eerste lid:
