@@ -30,4 +30,8 @@ Niemand mag worden onderworpen aan dwangarbeid, behoudens de bij wet bepaalde ge
    - de arbeid die deel uitmaakt van de normale burgerplichten.
 ### Artikel 15. Vrijheid en zekerheid van de persoon
 
+### Artikel 16. Rechtsbijstand
+1. Iedereen heeft recht op rechtsbijstand, dit geldt zowel in rechte als in administratief beroep.
+2. De staat betaalt de rechtsbijstand voor minder draagkrachtigen.
+
 ## § 3. Sociale burgerrechten
