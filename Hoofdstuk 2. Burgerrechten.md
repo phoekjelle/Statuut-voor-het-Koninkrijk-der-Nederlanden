@@ -17,24 +17,26 @@ Alle mensen die zich in het Koninkrijk bevinden zijn gelijk voor de wet en genie
 1. De staat mag niemand discrimineren op grond van ras, kleur, geslacht, etniciteit, seksuele oriëntatie, gender, burgelijke staat, zwangerschap, handicap, geloof, geweten, overtuiging, cultuur, taal, afkomst, herkomst, geboorte, bezit, eigendom, leeftijd, noch enige andere status.
 2. Feitelijke gelijkheid omvat het volledige en gelijke genot van alle rechten en vrijheden. Bij of krachtens de wet kunnen maatregelen genomen worden om de feitelijk gelijkheid van personen met een achterstand te bevorderen.
 3. De wet stelt regels om feitelijke discriminatie te voorkomen of te beletten.
-4. Discrimatie is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is ingevolge lid 2.
+4. Discrimatie op enige grond in het eerste lid opgesomd is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is ingevolge het tweede lid.
 ### Artikel 11. Menswaardigheid
-Iedereen wordt als waardig mens geboren en geniet eerbiediging en bescherming van zijn waardigheid. Dit recht mag niet worden ingeperkt.
+Iedereen wordt als waardig mens geboren en heeft recht op respectering en bescherming van deze waardigheid.
 ### Artikel 12. Leven
 Niemand mag wederrechtelijke van het leven worden beroofd.
 ### Artikel 13. Slavernij
-Niemand mag aan slavernij, horigheid noch diestbaarheid worden onderworpen. Dit recht mag niet worden ingeperkt.
-### Artikel 14. Doodstraf of onmenselijke straf
-Niemand mag worden onderworpen aan de doodstraf, folteringen, noch aan een onmenselijke of vernederende behandeling of bestraffing. Dit recht mag niet worden ingeperkt.
-### Artikel 15. Dwangarbeid
-Niemand mag worden onderworpen aan dwangarbeid of verplichte arbeid, behoudens de gevallen bij wet bepaald inzake:
-   - de verplichte arbeid wat gewoonlijk wordt vereist van gedetineerden;
-   - de verplichte militaire dienst, mits onder de bevoegdheid van de federale overheid;
-   - elke dienst die wordt gevorderd in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
-   - elk werk of elke dienst die deel uitmaakt van normale burgerplichten.
-### Artikel 16. Vrijheid en veiligheid van zijn persoon
-1. Iedereen heeft recht op vrijheid en veiligheid van zijn persoon. Niemand mag 
-2.
+Niemand mag in slavernij, diensbaarheid of horigheid verkeren.
+### Artikel 14. Doodstraf
+Niemand mag ter dood worden veroordeeld.
+### Artikel 15. Foltering
+Niemand mag worden onderworpen aan folteringen, noch aan onmenselijke of vernederende behandelingen of bestraffingen.
+### Artikel 16. Dwangarbeid
+Niemand mag gedwongen worden arbeid te verrichten, behalve:
+   - als straf voor een misdrijf waartoe hij rechtmatig veroordeeld zal zijn;
+   - als dienst van militaire aard, of, in het geval van gewetensbezwaren, als dienst gevorderd in plaats van de verplichte militaire dienst;
+   - als dienst gevorderd in het geval van een noodtoestand die het leven of het welzijn van de gemeenschap bedrijgt;
+   - als dienst welke onderdeel uitmaakt van de normale burgerplichten.
+### Artikel 16. Onschendbaarheid
+1. Iedereen heeft recht op vrijheid en onschendbaarheid van zijn persoon.
+2. Niemand mag zijn vrijheid worden ontnomen, 
 3. Niemand mag zijn vrijheid worden ontnomen, behalve in de navolgende gevallen en overeenkomstig de procedure bij wet voorzien:
    - indien de betrokkene op rechtmatige wijze is gedetineerd ingevolge de veroordeling door een daartoe bevoegde strafrechter;
    - indien de betrokkene op rechtmatige wijze is gearresteerd of gedetineerd, wegens het niet naleven van een overeenkomstig de wet door een daartoe bevoegde 
