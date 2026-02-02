@@ -17,17 +17,17 @@ Iedereen wordt als waardig mens geboren en heeft het recht dat die waardigheid w
 1. In de wet omvat het woord “iedereen” alle geboren en levende mensen die zich in het Koninkrijk bevinden of aan het gezag daarvan onderworpen zijn; het woord “niemand” sluit al diezelfde mensen uit.
 2. Iedereen is gelijk voor de wet en geniet de volledige en gelijke bescherming door het recht.
 3. … 
-### Artikel 10. Leven
+### Artikel 11. Leven
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
-### Artikel 11. Slavernij
+### Artikel 12. Slavernij
 Niemand mag worden onderworpen aan slavernij of horigheid. Dit recht mag niet worden ingeperkt.
-### Artikel 12. Doodstraf of onmenselijke straf
+### Artikel 13. Doodstraf of onmenselijke straf
 Niemand mag worden onderworpen aan de doodstraf, folteringen, noch aan een onmenselijke of vernederende behandeling of bestraffing. Dit recht mag niet worden ingeperkt.
-### Artikel 13. Dwangarbeid
+### Artikel 14. Dwangarbeid
 Niemand mag worden onderworpen aan dwangarbeid, behoudens de bij wet bepaalde gevallen inzake:
    - de militaire dienstplicht;
    - de arbeid die gewoonlijk van gedetineerden wordt vereist;
    - de arbeid die deel uitmaakt van de normale burgerplichten.
-### Artikel 14. Vrijheid en zekerheid van de persoon
+### Artikel 15. Vrijheid en zekerheid van de persoon
 
 ## § 3. Sociale burgerrechten
