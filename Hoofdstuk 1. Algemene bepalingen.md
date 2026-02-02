@@ -28,4 +28,4 @@ Vóórdat de organieke rijkswet ingevolge van lid 3 is aangenomen, blijft de Gro
 ### Artikel 5. Residuele bevoegdheden
 De bevoegdheden die niet uitdrukkelijk bij of krachtens het Statuut of de rijkswet aan de federale overheid zijn gedelegeerd, noch door het Statuut aan de landen zijn verboden, berusten bij de respectievelijke landsparlementen.
 ### Artikel 6. Staatsregelingen van de landen
-De landen regelen hun staatsinrichting in hun eigen Staatsregelingen; om historische redenen omvat de Grondwet de Staatsregeling van Nederland. Om de leesbaarheid van het Statuut te vergroten wordt met de woorden "Staatsregelingen van de landen" en enige grammaticale vervoeging daarvan tevens de Grondwet als Staatsregeling van Nederland bedoeld.
+De landen regelen hun staatsinrichting in hun eigen Staatsregelingen; om historische redenen omvat de Grondwet de Staatsregeling van Nederland. Om de leesbaarheid van het Statuut te vergroten wordt met de woorden “Staatsregelingen van de landen” en de grammaticale vervoegingen daarvan tevens de Grondwet als Staatsregeling van Nederland bedoeld.
