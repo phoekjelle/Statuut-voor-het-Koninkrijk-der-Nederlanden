@@ -14,10 +14,10 @@ De burgerrechten vormen de basis van de democratische rechtsstaat en de samenlev
 ### Artikel 9. Gelijkheid
 Alle mensen die zich in het Koninkrijk bevinden zijn gelijk voor de wet en genieten de volledige en gelijke bescherming door het recht.
 ### Artikel 10. Discriminatie
-1. De staat mag niemand discrimineren op grond van ras, kleur, geslacht, etniciteit, seksuele oriëntatie, gender, burgelijke staat, zwangerschap, handicap, geloof, geweten, overtuiging, cultuur, taal, afkomst, herkomst, geboorte, bezit, eigendom, leeftijd, noch enige andere status.
-2. Feitelijke gelijkheid omvat het volledige en gelijke genot van alle rechten en vrijheden. Bij of krachtens de wet kunnen maatregelen genomen worden om de feitelijk gelijkheid van personen met een achterstand te bevorderen.
-3. De wet stelt regels om feitelijke discriminatie te voorkomen of te beletten.
-4. Discrimatie op enige grond in het eerste lid opgesomd is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is ingevolge het tweede lid.
+1. De staat mag niemand discrimineren op grond van ras, kleur, geslacht, seksuele oriëntatie, gender, leeftijd, geloof, geweten, overtuiging, etniciteit of maatschappelijke herkomst, geboorte, burgelijke staat, zwangerschap, cultuur, noch taal.
+2. Gelijkheid omvat het volledige en gelijke genot van alle rechten en vrijheden. De landen kunnen wettelijke maatregelen treffen om de gelijkheid van personen met een feitelijk achterstand te bevorderen.
+3. Discriminatie op een van de in lid 1 opgesomde gronden is verboden, tenzij er vastgesteld wordt dat deze grond is gerechtvaardigd teneinde het doel ingevolge lid 2.
+4. De landen moeten wetgeving maken om discriminatie te voorkómen en om gelijkheid te bevorderen.
 ### Artikel 11. Menswaardigheid
 Iedereen wordt als waardig mens geboren en heeft recht op respectering en bescherming van deze waardigheid.
 ### Artikel 12. Leven
