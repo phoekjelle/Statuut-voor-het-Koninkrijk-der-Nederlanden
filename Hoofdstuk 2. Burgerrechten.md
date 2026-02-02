@@ -15,7 +15,7 @@ De burgerrechten vormen de basis van de democratische rechtsstaat en de samenlev
 Alle mensen die zich in het Koninkrijk bevinden zijn gelijk voor de wet en genieten de volledige en gelijke bescherming door het recht.
 ### Artikel 10. Discriminatie
 1. De staat mag niemand discrimineren op grond van ras, kleur, geslacht, etniciteit, seksuele oriëntatie, gender, burgelijke staat, zwangerschap, handicap, geloof, geweten, overtuiging, cultuur, taal, afkomst, herkomst, geboorte, bezit, eigendom, leeftijd, noch enige andere status.
-2. Feitelijke gelijkheid omvat het volle en gelijke genot van alle rechten en vrijheden. Bij of krachtens de wet kunnen maatregelen genomen worden om de feitelijk gelijkheid van personen met een achterstand te bevorderen.
+2. Feitelijke gelijkheid omvat het volledige en gelijke genot van alle rechten en vrijheden. Bij of krachtens de wet kunnen maatregelen genomen worden om de feitelijk gelijkheid van personen met een achterstand te bevorderen.
 3. De wet stelt regels om feitelijke discriminatie te voorkomen of te beletten.
 4. Discrimatie is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is ingevolge lid 2.
 ### Artikel 11. Menswaardigheid
