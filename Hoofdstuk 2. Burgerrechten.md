@@ -29,36 +29,25 @@ Niemand mag ter dood worden veroordeeld.
 ### Artikel 15. Foltering
 Niemand mag worden onderworpen aan folteringen, noch aan onmenselijke of vernederende behandelingen of bestraffingen.
 ### Artikel 16. Dwangarbeid
-Niemand mag gedwongen worden arbeid te verrichten, behalve:
-   - als straf voor een misdrijf waartoe hij rechtmatig veroordeeld zal zijn;
+Niemand mag worden gedwongen arbeid te verrichten, behalve in de gevallen bij wet bepaald:
+   - als straf voor een misdrijf waartoe hij rechtmatig veroordeeld is;
    - als dienst van militaire aard, of, in het geval van gewetensbezwaren, als dienst gevorderd in plaats van de verplichte militaire dienst;
    - als dienst gevorderd in het geval van een noodtoestand die het leven of het welzijn van de gemeenschap bedrijgt;
    - als dienst welke onderdeel uitmaakt van de normale burgerplichten.
 ### Artikel 16. Onschendbaarheid
 1. Iedereen heeft recht op vrijheid en onschendbaarheid van zijn persoon.
-2. Niemand mag zijn vrijheid worden ontnomen, 
-3. Niemand mag zijn vrijheid worden ontnomen, behalve in de navolgende gevallen en overeenkomstig de procedure bij wet voorzien:
-   - indien de betrokkene op rechtmatige wijze is gedetineerd ingevolge de veroordeling door een daartoe bevoegde strafrechter;
-   - indien de betrokkene op rechtmatige wijze is gearresteerd of gedetineerd, wegens het niet naleven van een overeenkomstig de wet door een daartoe bevoegde 
-
-        b. indien hij op rechtmatige wijze is gearresteerd of gedetineerd, wegens het niet naleven van een overeenkomstig de wet door een gerecht gegeven bevel of teneinde de nakoming van een door de wet voorgeschreven verplichting te verzekeren;
-
-        c. indien hij op rechtmatige wijze is gearresteerd of gedetineerd teneinde voor de bevoegde rechterlijke instantie te worden geleid, wanneer er een redelijke verdenking bestaat, dat hij een strafbaar feit heeft begaan of indien het redelijkerwijs noodzakelijk is hem te beletten een strafbaar feit te begaan of te ontvluchten nadat hij dit heeft begaan;
-
-        d. in het geval van rechtmatige detentie van een minderjarige met het doel toe te zien op zijn opvoeding of in het geval van zijn rechtmatige detentie, teneinde hem voor de bevoegde instantie te geleiden;
-
-        e. in het geval van rechtmatige detentie van personen ter voorkoming van de verspreiding van besmettelijke ziekten, van geesteszieken, van verslaafden aan alcohol of verdovende middelen of van landlopers;
-
-        f. in het geval van rechtmatige arrestatie of detentie van een persoon teneinde hem te beletten op onrechtmatige wijze het land binnen te komen, of van een persoon waartegen een uitwijzings- of uitleveringsprocedure hangende is.
-
-    2 Een ieder die gearresteerd is moet onverwijld en in een taal die hij verstaat op de hoogte worden gebracht van de redenen van zijn arrestatie en van alle beschuldigingen die tegen hem zijn ingebracht.
-
-    3 Een ieder die is gearresteerd of gedetineerd, overeenkomstig lid 1.c van dit artikel, moet onverwijld voor een rechter worden geleid of voor een andere magistraat die door de wet bevoegd verklaard is rechterlijke macht uit te oefenen en heeft het recht binnen een redelijke termijn berecht te worden of hangende het proces in vrijheid te worden gesteld. De invrijheidstelling kan afhankelijk worden gesteld van een waarborg voor de verschijning van de betrokkene ter terechtzitting.
-
-    4 Een ieder, wie door arrestatie of detentie zijn vrijheid is ontnomen, heeft het recht voorziening te vragen bij het gerecht opdat deze spoedig beslist over de rechtmatigheid van zijn detentie en zijn invrijheidstelling beveelt, indien de detentie onrechtmatig is.
-
-    5 Een ieder die het slachtoffer is geweest van een arrestatie of een detentie in strijd met de bepalingen van dit artikel, heeft recht op schadeloosstelling.
-    
+2. Niemand mag de vrijheid worden ontnomen, behalve in de gevallen bij de wet bepaald:
+   - indien hij op rechtmatige wijze is gedetineerd ingevolge de rechtmatige veroordeling door een bevoegde strafrechter;
+   - indien hij op rechtmatige wijze is gearresteerd of gedetineerd,
+       - wegens het niet naleven van een rechtsgeldig rechterlijk bevel, of
+       - teneinde de naleving van een door het recht voorgeschreven plicht te verzekeren;
+   - indien hij op rechtmatige wijze is gearresteerd of gedetineerd teneinde voor de bevoegde strafrechter te worden geleid,
+       - wanneer er een redelijke verdenking bestaat, dat hij een strafbaar feit heeft begaan, of
+       - indien het redelijkerwijs noodzakelijk is hem te beletten een strafbaar feit te begaan of te ontvuchten nadat hij dit heeft begaan;
+   - in het geval van rechtmatige detentie van een minderjarige,
+       - met het doel toe te zien op zijn opvoeding, of
+       - in het geval van zijn rechtmatige detentie, teneinde hem voor de bevoegde jeugdstrafrechter te geleiden;
+   - in het geval van rechtmatige detentie van personen ter voorkoming van de verspreiding van besmettelijke ziekten, van geesteszieken, van verslaafden aan alcohol of verdovende middelen of van landlopers;
 ### Artikel 16. Rechtsbijstand
 1. Iedereen heeft recht op rechtsbijstand, dit geldt zowel in rechte als in administratief beroep.
 2. De staat betaalt de rechtsbijstand voor minder draagkrachtigen.
