@@ -5,7 +5,8 @@ De burgerrechten vormen de basis van de democratische rechtsstaat en de samenlev
    - De klassieke burgerrechten verplichten de overheid om iedereen menswaardig en gelijk in rechten behandelen zonder machtsmisbruik of willekeur.
    - De sociale burgerrechten verplichten de overheid om de maatschappelijke voorzieningen te verschaffen aan de mensen die dat nodig hebben.
 ### Artikel 8. Toepassing
-1. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
+1. In de wet omvat het woord “iedereen” alle geboren en levende mensen die zich in het Koninkrijk bevinden of aan het gezag daarvan onderworpen zijn; het woord “niemand” sluit al diezelfde mensen uit.
+2. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
 2. Bij de toepassing van een bepaling in dit hoofdstuk op een natuurlijke of rechtspersoon ingevolge het eerste lid:
    - moet de rechter teneinde gevolg te geven aan een recht in dit hoofdstuk de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg geeft aan dat recht;
    - kan de rechter regels van het gemeen recht ontwikkelen om het recht te beperken, mits deze beperking in overeenstemming is met de voorwaardes in § 4. en met de beginselen van de democratische rechtsstaat.
@@ -14,9 +15,8 @@ De burgerrechten vormen de basis van de democratische rechtsstaat en de samenlev
 ### Artikel 9. Menswaardigheid
 Iedereen wordt als waardig mens geboren en heeft het recht dat die waardigheid wordt gerespecteerd en beschermd.
 ### Artikel 10. Gelijkheid
-1. In de wet omvat het woord “iedereen” alle geboren en levende mensen die zich in het Koninkrijk bevinden of aan het gezag daarvan onderworpen zijn; het woord “niemand” sluit al diezelfde mensen uit.
-2. Iedereen is gelijk voor de wet en geniet de volledige en gelijke bescherming door het recht.
-3. … 
+1. Iedereen is gelijk voor de wet en geniet de volledige en gelijke bescherming door het recht.
+2. De staat mag niemand discrimineren op grond van ras, geslacht, gender, zwangerschap, huwelijk staat, etniciteit, seksuele oriëntatie, kleur, leeftijd, geloof, geweten, overtuiging, kultuur, taal noch geboorte.
 ### Artikel 11. Leven
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
 ### Artikel 12. Slavernij
