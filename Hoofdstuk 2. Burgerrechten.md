@@ -17,7 +17,7 @@ Alle mensen die zich in het Koninkrijk bevinden zijn gelijk voor de wet en genie
 1. De staat mag niemand discrimineren op grond van ras, kleur, geslacht, etniciteit, seksuele oriëntatie, gender, burgelijke staat, zwangerschap, handicap, geloof, geweten, overtuiging, cultuur, taal, afkomst, herkomst, geboorte, bezit, eigendom, leeftijd, noch enige andere status.
 2. Feitelijke gelijkheid omvat het volle en gelijke genot van alle rechten en vrijheden. Bij of krachtens de wet kunnen maatregelen genomen worden om de feitelijk gelijkheid van personen met een achterstand te bevorderen.
 3. De wet stelt regels om feitelijke discriminatie te voorkomen of te beletten.
-4. Discrimatie is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is in de democratische rechtsstaat, ingevolge lid 2.
+4. Discrimatie is verboden, tenzij wordt vastgesteld dat deze gerechtvaardigd is ingevolge lid 2.
 ### Artikel 11. Menswaardigheid
 Iedereen wordt als waardig mens geboren en geniet eerbiediging en bescherming van zijn waardigheid. Dit recht mag niet worden ingeperkt.
 ### Artikel 12. Leven
