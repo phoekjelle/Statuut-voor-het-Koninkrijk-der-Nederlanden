@@ -5,7 +5,8 @@ De burgerrechten vormen de basis van de democratische rechtsstaat en samenleving
 - De klasieke burgerrechten zijn onschendbaar; de staat moet ze nakomen. Ze beschermen tegen machtsmisbruik en willekeur.
 - De sociale burgerrechten geven de staat de opdracht voor iedereen maatschappelijke voorzieningen te verschaffen. Ze kunnen niet direct in rechte worden afgedwongen.
 ### Artikel 8. Toepassing
-1. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
+1. De burgerrechten zijn van toepassing op alle wetten binnen het Koninkrijk en binden alle machten van de staat.
+2. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
 2. Bij de toepassing van een bepaling in dit hoofdstuk op een natuurlijke of rechtspersoon ingevolge het eerste lid:
    - moet de rechter teneinde gevolg te geven aan een recht in dit hoofdstuk de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg geeft aan dat recht;
    - kan de rechter regels van het gemeen recht ontwikkelen om het recht te beperken, mits deze beperking in overeenstemming is met de voorwaardes in § 4. en met de beginselen van de democratische rechtsstaat.
