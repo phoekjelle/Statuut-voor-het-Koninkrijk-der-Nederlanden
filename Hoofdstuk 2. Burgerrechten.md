@@ -35,22 +35,15 @@ Niemand mag worden gedwongen arbeid te verrichten, behalve in de gevallen bij we
    - als dienst van militaire aard, of, in het geval van gewetensbezwaren, als dienst gevorderd in plaats van de verplichte militaire dienst;
    - als dienst gevorderd in het geval van een noodtoestand die het leven of het welzijn van de gemeenschap bedrijgt;
    - als dienst welke onderdeel uitmaakt van de normale burgerplichten.
-### Artikel 16. Onschendbaarheid
-1. Iedereen heeft recht op vrijheid en onschendbaarheid van zijn persoon.
-2. Niemand mag de vrijheid worden ontnomen, behalve in de gevallen bij de wet bepaald:
-   - indien hij op rechtmatige wijze is gedetineerd ingevolge de rechtmatige veroordeling door een bevoegde strafrechter;
-   - indien hij op rechtmatige wijze is gearresteerd of gedetineerd,
-       - wegens het niet naleven van een rechtsgeldig rechterlijk bevel, of
-       - teneinde de naleving van een door het recht voorgeschreven plicht te verzekeren;
-   - indien hij op rechtmatige wijze is gearresteerd of gedetineerd teneinde voor de bevoegde strafrechter te worden geleid,
-       - wanneer er een redelijke verdenking bestaat, dat hij een strafbaar feit heeft begaan, of
-       - indien het redelijkerwijs noodzakelijk is hem te beletten een strafbaar feit te begaan of te ontvuchten nadat hij dit heeft begaan;
-   - in het geval van rechtmatige detentie van een minderjarige,
-       - met het doel toe te zien op zijn opvoeding, of
-       - in het geval van zijn rechtmatige detentie, teneinde hem voor de bevoegde jeugdstrafrechter te geleiden;
-   - in het geval van rechtmatige detentie van personen ter voorkoming van de verspreiding van besmettelijke ziekten, van geesteszieken, van verslaafden aan alcohol of verdovende middelen of van landlopers;
-### Artikel 16. Rechtsbijstand
-1. Iedereen heeft recht op rechtsbijstand, dit geldt zowel in rechte als in administratief beroep.
-2. De staat betaalt de rechtsbijstand voor minder draagkrachtigen.
+### Artikel 16. Vrijheid van beweging
+1. Iedereen heeft recht op vrijheid van beweging.
+2. Niemand mag de vrijheid van beweging worden ontnomen, dan krachtens een door de wet gestelde procedure in geval van:
+   - (a) rechtmatige detentie ingevolge de veroordeling door een strafhof;
+   - (b) 
+
+    (a) the lawful detention of a person after conviction by a competent court;
+
+    (b) 
+
 
 ## § 3. Sociale burgerrechten
