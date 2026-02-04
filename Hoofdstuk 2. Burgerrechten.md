@@ -30,20 +30,14 @@ Niemand mag ter dood worden veroordeeld.
 ### Artikel 15. Foltering
 Niemand mag worden onderworpen aan folteringen, noch aan onmenselijke of vernederende behandelingen of bestraffingen.
 ### Artikel 16. Dwangarbeid
-Niemand mag worden gedwongen arbeid te verrichten, behalve in de gevallen bij wet bepaald:
-   - als straf voor een misdrijf waartoe hij rechtmatig veroordeeld is;
-   - als dienst van militaire aard, of, in het geval van gewetensbezwaren, als dienst gevorderd in plaats van de verplichte militaire dienst;
-   - als dienst gevorderd in het geval van een noodtoestand die het leven of het welzijn van de gemeenschap bedrijgt;
-   - als dienst welke onderdeel uitmaakt van de normale burgerplichten.
+Niemand mag worden gedwongen arbeid te verrichten, dan 
+   - (a) de rechtmatige bestraffing van een door een strafhof veroordeelde persoon;
+   - (b) de militaire diensplicht, of, in geval van gewetensbezwaring, de vervangende dienstplicht;
+   - (c) de arbeid gevorderd in geval van een noodtoestand die het leven of het welzijn van de gemeenschap bedreigt;
+   - (d) de normale burgerplichten.
 ### Artikel 16. Vrijheid van beweging
-1. Iedereen heeft recht op vrijheid van beweging.
-2. Niemand mag de vrijheid van beweging worden ontnomen, dan krachtens een door de wet gestelde procedure in geval van:
-   - (a) rechtmatige detentie ingevolge de veroordeling door een strafhof;
-   - (b) 
-
-    (a) the lawful detention of a person after conviction by a competent court;
-
-    (b) 
+Niemand mag het recht op vrijheid van beweging worden ontnomen, dan uit kracht van de wet ingevolge:
+   - (a) 
 
 
 ## § 3. Sociale burgerrechten
