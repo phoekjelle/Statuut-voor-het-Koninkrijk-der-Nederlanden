@@ -2,7 +2,7 @@
 ## § 1. Inleiding en toepassing
 ### Artikel 7. Rechten
 - De burgerrechten vormen de basis van de democratische rechtsstaat en de samenleving in het Koninkrijk. Ze beschermen iedereen die zich in het Koninkrijk bevindt of anderszins aan het gezag daarvan onderworpen is.
-- 
+- § 2 omvat de klassieke burgerrechten
 
 De burgerrechten vormen de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Ze zijn onderverdeeld in klassieke en sociale burgerrechten:
 - De klasieke burgerrechten zijn onschendbaar; de staat moet ze nakomen. Wel kunnen er in het Statuut bepaalde beperkingen aan specifieke klassieke burgerrechten gegeven worden.
