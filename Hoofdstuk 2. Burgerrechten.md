@@ -1,8 +1,8 @@
-# Hoofdstuk 2. Burgerrechten
+# Hoofdstuk 2. Handvest van Rechten
 ### Artikel 7. Rechten
-1. De burgerrechten vormen de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Ze waarborgen de fundamentele menselijke rechten en verzekeren iedereen de democratische waardes van vrijheid, gelijkheid en menswaardigheid.
-2. Het Koninkrijk moet de burgerrechten in het Statuut respecteren, beschermen, bevorderen en waarmaken.
-3. De rechten 
+1. Dit Handvest van Rechten vormt de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Het waarborgt de fundamentele rechten van alle mensen en verzekert de democratische waardes van vrijheid, gelijkheid en menswaardigheid.
+2. Het Koninkrijk moet de rechten in het respecteren, beschermen, bevorderen en waarmaken.
+3. De burgerrechten in het 
 
 ### Artikel 8. Toepassing
 1. 
