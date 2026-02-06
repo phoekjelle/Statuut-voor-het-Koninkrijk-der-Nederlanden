@@ -4,7 +4,7 @@
 2. Het Koninkrijk respecteert en waarborgt:
    - de menselijke waardigheid;
    - de gelijkheid van iedereen voor het recht;
-   - de rechtszekerheid en de toegankelijkheid tot het recht;
+   - de rechtszekerheid en -toegankelijkheid;
    - het algemeen kiesrecht voor volwassenen in een parlementair meerpartijenstelsel;
    - de regelmatigheid van representatieve democratische verkiezingen;
    - de scheiding van de machten en de onafhankelijkheid van de rechtsspraak;
