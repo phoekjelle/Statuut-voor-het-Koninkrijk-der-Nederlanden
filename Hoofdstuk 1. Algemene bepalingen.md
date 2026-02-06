@@ -2,13 +2,13 @@
 ### Artikel 1. Democratische rechtsstaat
 1. Het Koninkrijk is een democratische rechtsstaat.
 2. Het Koninkrijk respecteert en waarborgt:
-   - de menselijke waardigheid;
+   - de menswaardigheid en de burgerrechten;
    - de gelijkheid van iedereen voor het recht;
    - de rechtszekerheid en -toegankelijkheid;
    - het algemeen kiesrecht voor volwassenen in een parlementair meerpartijenstelsel;
    - de regelmatigheid van representatieve democratische verkiezingen;
    - de scheiding van de machten en de onafhankelijkheid van de rechtsspraak;
-   - de overige fundamentele burgerrechten en rechtsbeginselen.
+   - de overige fundamentele rechtsbeginselen.
 ### Artikel 2. Oppergezag van het Statuut
 Dit Statuut is de hoogste wet van het Koninkrijk; wettelijke voorschriften vinden geen toepassing toepassing, indien deze toepassing niet verenigbaar is met de bepalingen van het Statuut of met de beginselen van de democratische rechtsstaat.
 ### Artikel 3. Koning
