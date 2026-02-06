@@ -2,7 +2,8 @@
 ### Artikel 1. Democratische rechtsstaat
 1. Het Koninkrijk is een democratische rechtsstaat.
 2. Het Koninkrijk respecteert en waarborgt:
-   - de menswaardigheid en de burgerrechten;
+   - de mensenrechten en de menselijke waardigheid;
+   - de 
    - de gelijkheid van iedereen voor het recht;
    - de rechtszekerheid en -toegankelijkheid;
    - het algemeen kiesrecht voor volwassenen in een parlementair meerpartijenstelsel;
@@ -23,7 +24,7 @@ Vóórdat de organieke rijkswet ingevolge van lid 3 is aangenomen, blijft de Gro
 ### Artikel 4. Federale staat
 1. Het Koninkrijk is een federale staat, samengesteld uit de landen.
 2. Aruba, Curaçao, Nederland en Sint-Maarten zijn de landen binnen het Koninkrijk.
-3. Bij rijkswet kunnen Bonaire, Saba en San Eustatius elk een land binnen het Koninkrijk worden, ingevolge lid 2, maar dit vereist een meerderheid van ja-stemmen in een referendum.
+3. Bij rijkswet kunnen Bonaire, Saba en Sant-Eustatius elk een land binnen het Koninkrijk worden, ingevolge lid 2, maar dit vereist een meerderheid van ja-stemmen in een referendum.
 4. Alles wat verder het referendum betreft wordt geregeld bij organieke rijkswet.
 ### Artikel 5. Residuele bevoegdheden 
 1. De federale overheid bezit slechts de bevoegdheden die haar uitdrukkelijk bij of krachtens het Statuut of een rijkswet zijn toegekend.
