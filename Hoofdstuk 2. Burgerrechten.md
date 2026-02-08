@@ -2,7 +2,7 @@
 ### Artikel 7. Rechten
 1. Dit Handvest van Rechten vormt de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Het waarborgt de fundamentele rechten van alle mensen en verzekert de democratische waardes van vrijheid, gelijkheid en menswaardigheid.
 2. De staat moet de rechten uit het Handvest respecteren, beschermen, bevorderen en waarmaken.
-3. De rechten uit het Handvest zijn onderworpen aan de beperkingen opgenomen in, of waarnaar wordt verwezen in, artikel 36 of elders in dit Handvest.
+3. De rechten uit het Handvest zijn onderworpen aan de beperkingen opgenomen in, of waarnaar wordt verwezen in, artikel 36 of elders in het Handvest.
 ### Artikel 8. Toepassing
 1. Het Handvest van Rechten is toepasbaar op alle wetten binnen, en bindt alle de wetgevende, de bestuurlijke en de rechtsprekende machten van, het Koninkrijk.
 2. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
