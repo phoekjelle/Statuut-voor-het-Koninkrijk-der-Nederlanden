@@ -4,7 +4,7 @@
 2. De staat moet de rechten uit het Handvest respecteren, beschermen, bevorderen en waarmaken.
 3. De rechten uit het Handvest zijn onderworpen aan de beperkingen opgenomen in, of waarnaar wordt verwezen in, artikel 36 of elders in het Handvest.
 ### Artikel 8. Toepassing
-1. , en bindt alle de wetgevende, de bestuurlijke en de rechtsprekende machten van, het Koninkrijk.
+1. Het Handvest van Rechten is van toepassing op alle wetgeving, en bindt alle wetgevende, uitvoerende en rechterlijke machten in het Koninkrijk.
 2. Een bepaling in dit hoofdstuk bindt een natuurlijke of rechtspersoon indien, en voor zover, deze toepasbaar is met inachtneming van de aard van het recht en de aard van enig door het recht opgelegde plicht.
 2. Bij de toepassing van een bepaling uit het Handvest op een natuurlijke of rechtspersoon ingevolge lid 2:
    - moet de rechter – teneinde gevolg te geven aan een recht in dit hoofdstuk – de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover wetgeving hieraan geen gevolg geeft;
