@@ -1,5 +1,7 @@
 # § 4. Application
-1. This Bill of Rights shall apply to all law, and shall bind the three branches of goverment and all organs of state, within this federal union.
+1. This Bill of Rights shall apply to all law, and shall bind the legislature, the executive, the judiciary and all organs of state, within the United States.
+2. 
+3.  the three branches of goverment and all organs of state, within this federal union.
 2. 
 Equal protection
 All persons within the United States, or otherwise subject to its jurisdiction or that of any State, shall be equal before the law and shall have the right to equal protection and benefit of the laws.
