@@ -25,6 +25,8 @@ Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden 
 ### Artikel 12.
 Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen. De landen beschermen dit recht in hun wetgeving.
 ### Artikel 13.
+Niemand mag worden onderworpen aan de doodstraf of aan folteringen of onmenselijke of vernederende behandelingen of bestraffingen.
+### Artikel 14.
 Niemand mag worden gedwongen om arbeid te verrichten tegen zijn wil, tenzij deze arbeid of dienst:
  - deel uitmaakt van zijn door een rechter opgelegde straf;
  - van militaire aard is of, in geval van gewetensbezwaarden, de arbeid of dienst gevorderd in plaats van de verplichte militaire dienst;
