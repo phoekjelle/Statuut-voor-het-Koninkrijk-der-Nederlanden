@@ -21,9 +21,9 @@
 ### Artikel 10.
 Ieder mens wordt in vrijheid en waardigheid geboren en heeft recht op eerbiediging en bescherming van die waardigheid.
 ### Artikel 11.
-Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd. De landen beschermen dit recht in hun wetgeving.
+Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
 ### Artikel 12.
-Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen. De landen beschermen dit recht in hun wetgeving.
+Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen.
 ### Artikel 13.
 Niemand mag worden onderworpen aan de doodstraf of aan folteringen of onmenselijke of vernederende behandelingen of bestraffingen.
 ### Artikel 14.
