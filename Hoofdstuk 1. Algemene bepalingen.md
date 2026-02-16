@@ -2,7 +2,7 @@
 ### Artikel 1.
 1. Het Koninkrijk is een democratische rechtsstaat.
 2. Het Koninkrijk respecteert en waarborgt:
-   - de grondrechten en de menselijke waardigheid;
+   - de fundamentele mensenrechten en de menswaardigheid;
    - de gelijkheid van iedereen voor de wet;
    - het legaliteitsbeginsel, de rechtszekerheid en de rechtstoegankelijkheid;
    - het algemeen kiesrecht voor volwassenen in regelmatige, representatieve verkiezingen;
