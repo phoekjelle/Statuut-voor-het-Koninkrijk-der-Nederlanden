@@ -10,12 +10,16 @@
 3. Bij de toepassing van een bepaling in het Handvest op een natuurlijke of rechtspersoon ingevolge het tweede lid:
    - moet de rechter, teneinde gevolg te geven aan een recht in het Handvest, de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg geeft aan dat recht;
    - mag de rechter regels van het gemeen recht ontwikkelen om dat recht te beperken, mits de bepering in overeenstemming is met de voorwaardes in § 4 en de beginselen van de democratische rechtsstaat.
-4. Een rechtspersoon heeft recht op een recht in het Handvest voor zover dat vereist is door de aard van dat recht en de aard van die rechtspersoon.
+4. Een rechtspersoon heeft aanspraak op de rechten in het Handvest voor zover dat vereist is door de aard van die rechten en de aard van die rechtspersoon.
 ## § 2. Klasieke grondrechten
 ### Artikel 9.
-1. Alle mensen zijn voor de wet gelijk.
+1. Iedereen is voor de wet gelijk, en heeft recht op de gelijke bescherming door het recht.
+2. Gelijkheid omvat het volle en gelijke genot van alle rechten en vrijheden. Teneinde de bestaande ongelijkheid te bestrijden, kunnen de landen bij of krachtens de wet maatregels treffen om de personen of categorieën personen die door discriminatie zijn achtergesteld, te bevorderen.
+3. De staat mag niemand direct of indirect discrimineren op grond van ras, (huids)kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, herkomst, seksuele geaardheid, leeftijd, handicap, religie, geweten, geloof, cultuur, taal, scholing noch geboorte.
+4. Geen persoon mag een ander direct of indirect discrimineren op de gronden in het derde lid opgesomd. De landen moeten wetgeving maken om discriminatie in de praktijk te voorkómen of te beleten.
+5. Discriminatie op de gronden in het derde lid opgesomd is verboden, tenzij wordt vastgesteld dat deze proportioneel is ten opzichte van de in het tweede lid bedoelde positieve discriminatie.
 ### Artikel 10.
-Elk mens wordt geboren in vrijheid en waardigheid, en heeft recht op eerbiediging en bescherming van zijn waardigheid.
+Ieder mens wordt in vrijheid en waardigheid geboren en heeft recht op eerbiediging en bescherming van die waardigheid.
 ### Artikel 11.
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd. De landen beschermen dit recht in hun wetgeving.
 ### Artikel 12.
