@@ -23,3 +23,10 @@ Ieder mens wordt in vrijheid en waardigheid geboren en heeft recht op eerbiedigi
 ### Artikel 11.
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd. De landen beschermen dit recht in hun wetgeving.
 ### Artikel 12.
+Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen. De landen beschermen dit recht in hun wetgeving.
+### Artikel 13.
+Niemand mag worden gedwongen om arbeid te verrichten tegen zijn wil, tenzij deze arbeid of dienst:
+ - deel uitmaakt van zijn door een rechter opgelegde straf;
+ - van militaire aard is of, in geval van gewetensbezwaarden, de arbeid of dienst gevorderd in plaats van de verplichte militaire dienst;
+ - gevorderd wordt in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
+ - deel uitmaakt van zijn normale burgerplichten.
