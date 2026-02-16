@@ -27,4 +27,4 @@ Vóórdat de organieke rijkswet zoals bedoeld in het derde lid zal zijn aangenom
 4. De organieke rijkswet regelt alles wat verder het referendum betreft.
 ### Artikel 5.
 1. Alleen de onderwerpen uitdrukkelijk bij het Statuut, of in gemeen overleg bij rijkswet, als zodanig bepaald, zijn de aangelegenheden van het Koninkrijk.
-2. Geen gezag wordt beoefend dan uit kracht van de wet.
+2. Geen macht wordt uitgeoefend dan uit kracht van de wet op de manier die de wet voorschrijft.
