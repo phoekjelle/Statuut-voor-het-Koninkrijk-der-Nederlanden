@@ -13,7 +13,9 @@
 4. Een rechtspersoon heeft recht op een recht in het Handvest voor zover dat vereist is door de aard van dat recht en de aard van die rechtspersoon.
 ## § 2. Klasieke grondrechten
 ### Artikel 9.
-1. Iedereen wordt gelijk in rechten en waardigheid geboren.
-2. Iedereen is gelijk voor de wet.
-3. De staat mag niemand, direct noch indirect, discrimineren wegens: geslacht, gender, burgelijke staat, zwangerschap, (huids)kleur, ras, handicap, 
+1. Alle mensen zijn voor de wet gelijk.
 ### Artikel 10.
+Elk mens wordt geboren in vrijheid en waardigheid, en heeft recht op eerbiediging en bescherming van zijn waardigheid.
+### Artikel 11.
+Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd. De landen beschermen dit recht in hun wetgeving.
+### Artikel 12.
