@@ -32,3 +32,7 @@ Niemand mag tegen zijn wil worden gedwongen om arbeid te verrichten, tenzij deze
  - van militaire aard is of, in geval van gewetensbezwaarden, de arbeid of dienst gevorderd in plaats van de verplichte militaire dienst;
  - gevorderd wordt in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
  - deel uitmaakt van zijn normale burgerplichten.
+### Artikel 15.
+1. Iedereen heeft recht op vrijheid en de veiligheid van zijn persoon. Niemand mag die vrijheid worden ontnomen, dan in de navolgende gevallen:
+   - indien de betrokkene rechtmatig is gedetineerd ingevolge een strafrechtelijke veroordeling door de rechter;
+   - 
