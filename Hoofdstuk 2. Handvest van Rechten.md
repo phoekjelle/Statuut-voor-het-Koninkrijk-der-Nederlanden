@@ -28,12 +28,12 @@ Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen.
 Niemand mag worden onderworpen aan de doodstraf of aan folteringen of onmenselijke of vernederende behandelingen of bestraffingen.
 ### Artikel 14.
 Niemand mag tegen zijn wil worden gedwongen om arbeid te verrichten, tenzij deze arbeid of dienst:
- - deel uitmaakt van zijn door een rechter opgelegde straf;
+ - deel uitmaakt van een krachtens de wet door een rechter opgelegde straf;
  - van militaire aard is of, in geval van gewetensbezwaarden, de arbeid of dienst gevorderd in plaats van de verplichte militaire dienst;
  - gevorderd wordt in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
  - deel uitmaakt van zijn normale burgerplichten.
 ### Artikel 15.
-1. Iedereen heeft recht op vrijheid en de veiligheid van zijn persoon. Niemand mag die vrijheid worden ontnomen, dan in de navolgende gevallen bij of krachtens wettelijke procedure:
+1. Iedereen heeft recht op vrijheid en de veiligheid van zijn persoon. Niemand mag die vrijheid worden ontnomen, dan in de navolgende gevallen volgens de procedure bij wet bepaald:
    - indien de betrokkene rechtmatig is gedetineerd ingevolge een door de rechter opgelegde strafrechtelijke veroordeling;
    - indien de betrokkene rechtmatig is gearresteerd of gedetineerd wegens het niet naleven van een rechterlijk bevel, overeenkomstig de wet opgelegd, of teneinde de nakoming vaneen door de wet opgelegde verplichtin te verzekeren;
    - 
