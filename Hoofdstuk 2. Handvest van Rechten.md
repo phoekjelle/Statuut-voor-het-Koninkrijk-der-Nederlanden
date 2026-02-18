@@ -33,7 +33,9 @@ Niemand mag tegen zijn wil worden gedwongen om arbeid te verrichten, tenzij deze
  - gevorderd wordt in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
  - deel uitmaakt van zijn normale burgerplichten.
 ### Artikel 15.
-1. Iedereen heeft recht op vrijheid en de veiligheid van zijn persoon. Niemand mag die vrijheid worden ontnomen, dan in de navolgende gevallen volgens de procedure bij wet bepaald:
-   - indien de betrokkene rechtmatig is gedetineerd ingevolge een door de rechter opgelegde strafrechtelijke veroordeling;
-   - indien de betrokkene rechtmatig is gearresteerd of gedetineerd wegens het niet naleven van een rechterlijk bevel, overeenkomstig de wet opgelegd, of teneinde de nakoming vaneen door de wet opgelegde verplichting te verzekeren;
-   -  
+Iedereen heeft recht op persoonlijke vrijheid en veiligheid. Niemand mag van zijn vrijheid worden beroofd, behalve op de wijze uitdrukkelijk door de wet voorgescheven in geval van:
+1. de detentie van een door de rechter veroordeelde persoon wanneer de wet detentie als straf toestaat;
+2. de arrestatie of de detentie van een persoon wegens het niet naleven van een rechterlijk bevel;
+3. de arrestatie of de detentie van een persoon teneinde de naleving van een door de wet of een regel van het gemeen recht opgelegde plicht te verzekeren;
+4. de arrestatie of de detentie van een persoon teneinde hem binnen een redelijke termijn voor de rechter te geleiden, wanneer er een redelijke verdenking bestaat, dat hij een strafbaar feit heeft begaan of 
+
