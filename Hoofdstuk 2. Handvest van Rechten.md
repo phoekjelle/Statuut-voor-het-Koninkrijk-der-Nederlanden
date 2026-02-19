@@ -1,9 +1,12 @@
 # Hoofdstuk 2. Handvest van Rechten
-## § 1. Toepassing
+### Artikel 7.
+1. De 
+
+
 ### Artikel 7.
 1. Dit Handvest van Rechten vormt de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Het waarborgt de fundamentele rechten van alle mensen en verzekert de democratische waardes van vrijheid, gelijkheid en menswaardigheid.
 2. De staat moet de rechten in het Handvest respecteren, beschermen, bevorderen en waarmaken.
-3. De rechten in het Handvest zijn onderworpen aan de beperkingen opgenomen in, of waarnaar wordt verwezen in § 4, dan wel elders in het Handvest.
+3. Een recht, omscheven in een artikel van het Handvest van Rechten, is ontschendbaar, tenzij dat artikel beperking van dat recht uitdrukkelijk toestaat.
 ### Artikel 8.
 1. Het Handvest van Rechten is van toepassing op het gehele recht en bindt alle wetgevende, uitvoerende en rechtsprekende machten, en alle overheidsinstellingen.
 2. Een bepaling in het Handvest bindt een natuurlijke of rechtspersoon indien, en voor zover, deze van toepassing is, met inachtneming van de aard van dat recht en de aard van enige uit dat recht voortvloeiende plicht.
@@ -21,7 +24,7 @@
 ### Artikel 10.
 Iedereen wordt in vrijheid en waardigheid geboren en heeft recht op eerbiediging en bescherming van die waardigheid.
 ### Artikel 11.
-Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
+Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd. De 
 ### Artikel 12.
 1. Niemand mag in slavernij, horigheid of dienstbaarheid worden gehouden.
 2. Mensenhandel is verboden in iedere vorm.
