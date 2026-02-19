@@ -13,25 +13,28 @@
 4. Een rechtspersoon heeft aanspraak op de rechten in het Handvest voor zover dat vereist is door de aard van die rechten en de aard van die rechtspersoon.
 ## § 2. Klasieke grondrechten
 ### Artikel 9.
-1. Iedereen is gelijk voor de wet.
+1. Iedereen is gelijk voor het recht en heeft recht op de gelijke en volledige bescherming van het recht.
 2. Gelijkheid omvat het volle en gelijke genot van alle rechten en vrijheden. Teneinde de bestaande ongelijkheid te bestrijden, mogen de landen bij of krachtens de wet maatregels treffen om de personen of categorieën personen die door discriminatie zijn achtergesteld, te bevoordelen.
 3. De staat mag niemand direct of indirect discrimineren op grond van ras, (huids)kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, herkomst, seksuele geaardheid, leeftijd, handicap, religie, geweten, geloof, cultuur, taal of geboorte.
 4. Geen persoon mag een ander direct of indirect discrimineren op de gronden in het derde lid opgesomd. De landen moeten wetgeving maken om discriminatie in de praktijk te voorkómen of te beleten.
 5. Discriminatie op de gronden in het derde lid opgesomd is verboden, tenzij wordt vastgesteld dat deze proportioneel is ten opzichte van de in het tweede lid bedoelde positieve discriminatie.
 ### Artikel 10.
-Iedereen wordt in vrijheid en waardigheid geboren en heeft recht op respecting en bescherming van die waardigheid.
+Iedereen wordt in vrijheid en waardigheid geboren en heeft recht op eerbiediging en bescherming van die waardigheid.
 ### Artikel 11.
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
 ### Artikel 12.
-Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen.
+1. Niemand mag in slavernij, horigheid of dienstbaarheid worden gehouden.
+2. Mensenhandel is verboden in iedere vorm.
 ### Artikel 13.
-Niemand mag aan de doodstraf worden onderworpen noch aan folteringen of onmenselijke of vernederende behandelingen of bestraffingen.
+1. De doodstraf noch de burgelijke dood kunnen worden opgelegd.
+2. Niemand mag aan foltering, marteling of aan een lijfstraf worden onderworpen.
+3. Niemand mag aan een onmenselijke of vernederende behandeling of straf worden onderworpen.
 ### Artikel 14.
-Niemand mag tegen zijn wil worden gedwongen om arbeid te verrichten, tenzij deze arbeid of dienst:
- - deel uitmaakt van een krachtens de wet door een rechter opgelegde straf;
- - van militaire aard is of, in geval van gewetensbezwaarden, de arbeid of dienst gevorderd in plaats van de verplichte militaire dienst;
- - gevorderd wordt in het geval van een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
- - deel uitmaakt van zijn normale burgerplichten.
+Niemand mag tegen zijn wil worden verplicht of gedwongen om arbeid te verrichten, behalve in geval van:
+1. de vordering van de taakstraf die de rechter hem overeenkomstig de wet heeft opgelegd;
+2. de verplichte militaire dienst, of, in geval van de door de wet erkende gewetensbezwaren: de dienst gevorderd in plaats van de verplichte militaire dienst;
+3. een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
+4. de diensten die deel uitmaken van de normale burgerplichten.
 ### Artikel 15.
 1. Iedereen heeft recht op persoonlijke vrijheid en vrijheid van beweging. Niemand mag de vrijheid worden ontnomen, dan volgens de bij wet bepaalde procedure in geval van:
    - rechtmatige detentie na veroordeling door de daartoe bevoegde rechter;
