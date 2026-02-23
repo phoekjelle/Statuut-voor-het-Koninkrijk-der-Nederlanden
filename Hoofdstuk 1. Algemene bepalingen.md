@@ -25,7 +25,7 @@ Dit Statuut is de hoogste wet van het Koninkrijk; de wettelijke voorschriften hi
 Vóórdat de organieke rijkswet zoals bedoeld in het vierde lid zal zijn aangenomen, blijft de Grondwet voor het Koninkrijk in deze zaken voorzien.
 ### Artikel 4.
 1. Aruba, Curaçao, Nederland en Sint-Maarten zijn de landen binnen het Koninkrijk.
-2. Bonaire, Saba en Sint-Eustatius kunnen elk een land binnen het Koninkrijk worden, maar dit vereist een meerderheid van ja-stemmen in een lokaal referendum, dat krachtens organieke rijkswet wordt gehouden.
+2. Bonaire, Saba en Sint-Eustatius kunnen elk een land binnen het Koninkrijk worden, maar dit vereist een meerderheid van ja-stemmen in een lokaal referendum, dat bij of krachtens organieke rijkswet wordt gehouden.
 3. De uitslag van het referendum heeft de kracht van een rijkswet en hij is tevens bindend.
 4. De organieke rijkswet regelt alles wat verder het referendum betreft.
 ### Artikel 5.
