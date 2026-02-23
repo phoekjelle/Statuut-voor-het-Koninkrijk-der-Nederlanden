@@ -26,9 +26,8 @@ Vóórdat de organieke rijkswet zoals bedoeld in het vierde lid zal zijn aangeno
 ### Artikel 4.
 1. Aruba, Curaçao, Nederland en Sint-Maarten zijn de landen binnen het Koninkrijk.
 2. Bonaire, Saba en Sint-Eustatius kunnen elk een land binnen het Koninkrijk worden, maar dit vereist een meerderheid van ja-stemmen in een lokaal referendum, dat krachtens organieke rijkswet wordt gehouden.
-3. De uitslag van het referendum zal de kracht hebben van een rijkswet; hij is bindend.
+3. De uitslag van het referendum heeft de kracht van een rijkswet en hij is tevens bindend.
 4. De organieke rijkswet regelt alles wat verder het referendum betreft.
 ### Artikel 5.
 1. Alleen de onderwerpen uitdrukkelijk bij het Statuut, of in gemeen overleg bij rijkswet, als zodanig bepaald, zijn de aangelegenheden van het Koninkrijk.
-2. In het Statuut wordt met het woord “wet” bedoeld de wet zoals deze door de 
 2. Geen macht wordt uitgeoefend dan uit kracht van de wet op de manier die de wet voorschrijft.
