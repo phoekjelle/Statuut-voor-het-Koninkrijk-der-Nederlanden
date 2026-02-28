@@ -15,7 +15,7 @@ Dit Statuut is de hoogste wet van het Koninkrijk; elke wet of regel die met het 
 Alleen de onderwerpen die uitdrukkelijk bij het Statuut, of in gemeen overleg bij rijkswet, als zodanig zijn gedefinieerd, zijn de aangelegenheden van het Koninkrijk.
 ### Artikel 4.
 1. Het Koninkrijk omvat de landen Aruba, Curaçao, Nederland en Sint Maarten.
-2. Bonaire, Saba en 
+2. Bonaire, Saba en Sint Eustatius kunnen elk bij rijkswet aan de opsomming in het vorige lid worden toegevoegd, maar dit vereist een meerderheid van ja-stemmen in een lokaal referendum. De uitslag van het referendum is bindend; de inwoners bepalen hun eigen toekomst.
 
 
 ### Artikel 3.
