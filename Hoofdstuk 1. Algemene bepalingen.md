@@ -1,5 +1,5 @@
 # Hoofdstuk 1. Algemene bepalingen
-### Artikel 1. Democratische rechtsstaat
+### Artikel 1.
 1. Het Koninkrijk der Nederlanden is een democratische rechtsstaat.
 2. Het Koninkrijk respecteert en waarborgt:
     - de menselijke waardigheid;
@@ -7,10 +7,10 @@
     - de rechtszekerheid en het legaliteitsbeginsel;
     - de onafhankelijkheid van de rechtspraak;
     - het algemeen kiesrecht voor volwassenen;
-    - de democratische besluitvorming in het parlementaire meerpartijenstelsel;
+    - de vertrouwensregel in het parlementaire meerpartijenstelsel;
     - de overige fundamentele rechtsbeginselen.
-### Artikel 2. Het Statuut
-Dit Statuut is de hoogste wet van het Koninkrijk; de wettelijke voorschriften hiermee in strijd, missen rechtskracht, en de verplichtingen hierin opgelegd, moeten worden nageleefd.
+### Artikel 2.
+Dit Statuut is de hoogste wet van het Koninkrijk; elke wet of regel die met het Statuut in strijd is, mist rechtskracht, en de verplichtingen die het Statuut oplegt, moeten worden nageleefd.
 ### Artikel 3.
 ### Artikel 3.
 1. De Koning is het symbool van de natie en de eenheid van het volk; hij ontleent zijn positie aan de wil van het volk, bij wie de soevereine macht berust.
