@@ -12,6 +12,7 @@
 ### Artikel 2.
 Dit Statuut is de hoogste wet van het Koninkrijk; elke wet of regel die met het Statuut in strijd is, mist rechtskracht, en de verplichtingen die het Statuut oplegt, moeten worden nageleefd.
 ### Artikel 3.
+Alleen de onderwerpen die uitdrukkelijk bij het Statuut, of in gemeen overleg bij rijkswet, als zodanig zijn gedefinieerd, zijn de aangelegenheden van het Koninkrijk.
 ### Artikel 3.
 1. De Koning is het symbool van de natie en de eenheid van het volk; hij ontleent zijn positie aan de wil van het volk, bij wie de soevereine macht berust.
 2. Het koningschap vererft; Koning Willem I, Prins van Oranje-Nassau wordt als stamvader beschouwd.
