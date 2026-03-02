@@ -1,22 +1,31 @@
-# Hoofdstuk 2. Handvest van Rechten
+# Hoofdstuk 2. Grondrechten
+## pgf 1. Toepassing
+### Artikel 6.
+1. Dit hoofdstuk omvat en waarborgt de grondrechten.
+2. De staat moet de grondrechten respecteren, beschermen, bevorderen en verwezenlijken. Deze plicht is een gezamenlijke aangelegenheid van elk der landen en het Koninkrijk.
+3. De grondrechten zijn bindend voor de wetgevende, uitvoerende en rechterlijke macht en alle overheidsinstellingen.
 ### Artikel 7.
-1. De 
-
-
-### Artikel 7.
-1. Dit Handvest van Rechten vormt de basis van de democratische rechtsstaat en samenleving in het Koninkrijk. Het waarborgt de fundamentele rechten van alle mensen en verzekert de democratische waardes van vrijheid, gelijkheid en menswaardigheid.
-2. De staat moet de rechten in het Handvest respecteren, beschermen, bevorderen en waarmaken.
-3. Een recht, omscheven in een artikel van het Handvest van Rechten, is ontschendbaar, tenzij dat artikel beperking van dat recht uitdrukkelijk toestaat.
+1. Een in dit hoofdstuk opgenomen bepaling is bindend voor een natuurlijke of rechtspersoon indien en voor zover deze van toepassing is, met inachtneming van de aard van het grondrecht en de aard van de eventuele plicht die uit dat grondrecht voortvloeit.
+2. Bij de toepassing van een in dit hoofdstuk opgenomen bepaling op een natuurlijke of rechtspersoon in de zin van het eerste lid:
+    - moet de rechter, teneinde aan een grondrecht gevolg te geven, de regels van het gemeen recht toepassen of, indien nodig, ontwikkelen voor zover de wetgeving van elk der landen geen gevolg geeft aan dat grondrecht;
+    - kan de rechter regels van het gemeen recht ontwikkelen om een grondrecht te beperken, mits de beperking in overeenstemming is met de beginselen van de democratische rechtsstaat.
+3. Een rechtspersoon heeft aanspraak op een van de grondrechten voor zover dat door de aard van dat grondrecht en de aard van die rechtspersoon vereist wordt.
+## pgf 2.
 ### Artikel 8.
-1. Het Handvest van Rechten is van toepassing op het gehele recht en bindt alle wetgevende, uitvoerende en rechtsprekende machten, en alle overheidsinstellingen.
-2. Een bepaling in het Handvest bindt een natuurlijke of rechtspersoon indien, en voor zover, deze van toepassing is, met inachtneming van de aard van dat recht en de aard van enige uit dat recht voortvloeiende plicht.
-3. Bij de toepassing van een bepaling in het Handvest op een natuurlijke of rechtspersoon ingevolge het tweede lid:
-   - moet de rechter, teneinde gevolg te geven aan een recht in het Handvest, de regels van het gemeen recht toepassen, of indien nodig ontwikkelen, voor zover de wet geen gevolg geeft aan dat recht;
-   - mag de rechter regels van het gemeen recht ontwikkelen om dat recht te beperken, mits de bepering in overeenstemming is met de voorwaardes in § 4 en de beginselen van de democratische rechtsstaat.
-4. Een rechtspersoon heeft aanspraak op de rechten in het Handvest voor zover dat vereist is door de aard van die rechten en de aard van die rechtspersoon.
-## § 2. Klasieke grondrechten
+Alle mensen worden in vrijheid en gelijk in waardigheid geboren. Deze waardigheid is onschendbaar; de staat moet haar respecteren en beschermen.
 ### Artikel 9.
-1. Iedereen is gelijk voor het recht en heeft recht op de gelijke en volledige bescherming van het recht.
+1. Iedereen is gelijk voor de wet en heeft gelijke aanspraak op de rechten en vrijheden.
+2. Teneinde de feitelijke gelijkheid in de samenleving te bevorderen kunnen de landen bij of krachtens de wet maatregelen treffen om de door discriminatie benadeelde personen of categorieen personen te bevoordelen, maar zulke maatregelen moeten proportioneel zijn ten opzichte van hun doel.
+3. De staat mag niemand direct of indirect discrimineren wegens ras, kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, seksuele orientatie, herkomst, leeftijd, handicap, geloof, overtuiging, geweten, cultuur, taal noch geboorte.
+4. Niemand mag een ander direct of indirect discrimineren wegens het opgesomde in het derde lid. De landen moeten bij wet regels stellen om discriminatie in de praktijk te voorkomen en te beletten.
+
+
+
+
+
+
+
+
 2. Gelijkheid omvat het volle en gelijke genot van alle rechten en vrijheden. Teneinde de bestaande ongelijkheid te bestrijden, mogen de landen bij of krachtens de wet maatregels treffen om de personen of categorieën personen die door discriminatie zijn achtergesteld, te bevoordelen.
 3. De staat mag niemand direct of indirect discrimineren op grond van ras, (huids)kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, herkomst, seksuele geaardheid, leeftijd, handicap, religie, geweten, geloof, cultuur, taal of geboorte.
 4. Geen persoon mag een ander direct of indirect discrimineren op de gronden in het derde lid opgesomd. De landen moeten wetgeving maken om discriminatie in de praktijk te voorkómen of te beleten.

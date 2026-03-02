@@ -4,13 +4,13 @@ Dit Statuut is de hoogste wet van het Koninkrijk; elke wet of regel die met het 
 ### Artikel 2. Democratische rechtsstaat
 1. Het Koninkrijk der Nederlanden is een democratische rechtsstaat.
 2. De democratische rechtsstaat waarborgt:
-    - de menswaardigheid en de mensenrechten;
-    - de rechtsgelijkheid en de rechtstoegankelijkheid;
+    - de menselijke waardigheid;
+    - de rechtsgelijkheid en -toegankelijkheid;
     - de rechtszekerheid en het legaliteitsbeginsel;
     - de onafhankelijkheid van de rechtspraak;
     - het algemeen kiesrecht voor volwassenen;
     - de vertrouwensregel in het parlementaire meerpartijenstelsel;
-    - de overige fundamentele rechtsbeginselen.
+    - de overige fundamentele rechten en rechtsbeginselen.
 ### Artikel 3. Grondgebied
 1. Het Koninkrijk omvat de landen Aruba, Curaçao, Nederland en Sint Maarten.
 2. Bonaire, Saba en Sint Eustatius kunnen elk bij rijkswet aan de opsomming in het vorige lid worden toegevoegd, maar dit vereist een meerderheid van ja-stemmen in een op dat eiland bij of krachtens de Nederlandse wet gehouden referendum. De uitslag van het referendum is bindend; het is de wil van het volk. Het referendum mag geen kiesdrempel hebben.
