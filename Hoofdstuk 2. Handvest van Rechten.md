@@ -1,5 +1,5 @@
 # Hoofdstuk 2. Grondrechten
-## pgf 1. Toepassing
+## § 1. Toepassing
 ### Artikel 6.
 1. Dit hoofdstuk omvat en waarborgt de grondrechten.
 2. De staat moet de grondrechten respecteren, beschermen, bevorderen en verwezenlijken. Deze plicht is een gezamenlijke aangelegenheid van elk der landen en het Koninkrijk.
@@ -10,14 +10,14 @@
     - moet de rechter, teneinde aan een grondrecht gevolg te geven, de regels van het gemeen recht toepassen of, indien nodig, ontwikkelen voor zover de wetgeving van elk der landen geen gevolg geeft aan dat grondrecht;
     - kan de rechter regels van het gemeen recht ontwikkelen om een grondrecht te beperken, mits de beperking in overeenstemming is met de beginselen van de democratische rechtsstaat.
 3. Een rechtspersoon heeft aanspraak op een van de grondrechten voor zover dat door de aard van dat grondrecht en de aard van die rechtspersoon vereist wordt.
-## pgf 2.
+## § 2.
 ### Artikel 8.
 Alle mensen worden in vrijheid en gelijk in waardigheid geboren. Deze waardigheid is onschendbaar; de staat moet haar respecteren en beschermen.
 ### Artikel 9.
 1. Iedereen is gelijk voor de wet en heeft gelijke aanspraak op de rechten en vrijheden.
-2. Teneinde de feitelijke gelijkheid in de samenleving te bevorderen kunnen de landen bij of krachtens de wet maatregelen treffen om de door discriminatie benadeelde personen of categorieen personen te bevoordelen, maar zulke maatregelen moeten proportioneel zijn ten opzichte van hun doel.
-3. De staat mag niemand direct of indirect discrimineren wegens ras, kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, seksuele orientatie, herkomst, leeftijd, handicap, geloof, overtuiging, geweten, cultuur, taal noch geboorte.
-4. Niemand mag een ander direct of indirect discrimineren wegens het opgesomde in het derde lid. De landen moeten bij wet regels stellen om discriminatie in de praktijk te voorkomen en te beletten.
+2. Teneinde de feitelijke gelijkheid in de samenleving te bevorderen kunnen de landen bij of krachtens de wet maatregelen treffen om de door discriminatie benadeelde personen of categorieën personen te bevoordelen, maar zulke maatregelen moeten proportioneel zijn ten opzichte van hun doel.
+3. De staat mag niemand direct of indirect discrimineren wegens ras, kleur, gender, geslacht, zwangerschap, burgerlijke staat, etniciteit, seksuele oriëntatie, herkomst, leeftijd, handicap, geloof, overtuiging, geweten, cultuur, taal noch geboorte.
+4. Niemand mag een ander direct of indirect discrimineren wegens het opgesomde in het derde lid. De landen moeten bij wet regels stellen om discriminatie in de praktijk te voorkómen en te beletten.
 
 
 
