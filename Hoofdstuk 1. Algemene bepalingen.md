@@ -1,7 +1,7 @@
 # Hoofdstuk 1. Algemene bepalingen
 ### Artikel 1. Democratische rechtsstaat
 1. Het Koninkrijk der Nederlanden is een democratische rechtsstaat.
-2. De democratische rechtsstaat waarborgt en beschermt:
+2. De democratische rechtsstaat waarborgt:
     - de menselijke waardigheid;
     - de vrije en democratische samenleving;
     - de rechtsgelijkheid en de rechtstoegankelijkheid;
