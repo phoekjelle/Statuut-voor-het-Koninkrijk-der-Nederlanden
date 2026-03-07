@@ -1,5 +1,5 @@
 # Hoofdstuk 2. Grondrechten
-## § 1. Toepassing van de grondrechten
+## § 1. 
 ### Artikel 7. Inleiding
 1. Dit hoofdstuk omvat en waarborgt de grondrechten die in het Koninkrijk gelden.
 2. Het respecteren, beschermen, bevorderen en verwezenlijken van de grondrechten is de gezamenlijke plicht van het Koninkrijk en elk der landen.
@@ -10,6 +10,8 @@
     - moet de rechter, teneinde aan een grondrecht gevolg te geven, de regels van het gemeen recht toepassen of, indien nodig, ontwikkelen voor zover wetgeving aan dat grondrecht geen gevolg geeft;
     - kan de rechter regels van het gemeen recht ontwikkelen om dat grondrecht te beperken, mits de bepaling die beperking toestaat en mits die beperking in overeenstemming is met de beginselen van de democratische rechtsstaat.
 3. Een rechtspersoon heeft aanspraak op een van de grondrechten voor zover de aard van dat grondrecht en de aard van die rechtspersoon dat vereisen.
+### Artikel 9. Rechtsgelijkheid
+Iedereen is gelijk voor de wet en heeft gelijke aanspraak op alle rechten en vrijheden.
 ## § 2.
 ### Artikel 9. Gelijkheid
 1. Iedereen is gelijk voor de wet en heeft gelijke aanspraak op alle rechten en vrijheden.
@@ -23,25 +25,20 @@ Alle mensen worden vrij en gelijk in waardigheid en rechten geboren. Deze waardi
 ### Artikel 11. Leven
 Iedereen heeft recht op leven; niemand mag wederrechtelijk van het leven worden beroofd.
 ### Artikel 12. Slavernij
-1. Niemand mag aan slavernij, horigheid of dienstbaarheid worden onderworpen.
-2. Mensenhandel, in welke vorm dan ook, is verboden.
-3. Deze rechten zijn onschendbaar.
+1. Het verbod op onderwerping aan slavernij, horigheid of dienstbaarheid is onschendbaar.
+2. Het verbod op mensenhandel, in welke vorm dan ook, is onschendbaar.
 ### Artikel 13. Doodstraf
-De doodstraf en de burgerlijke dood zijn afgeschaft, zij kunnen niet opnieuw worden ingevoerd.
-### Artikel 13. Foltering
-Niemand mag aan foltering worden onderworpen, noch aan een vernederende of onmenselijke behandeling of straf.
-### Artikel 13.
-
-
-
-### Artikel 14.
-Niemand mag tegen zijn wil worden verplicht of gedwongen om arbeid te verrichten, behalve in geval van:
-1. de vordering van de taakstraf die de rechter hem overeenkomstig de wet heeft opgelegd;
-2. de verplichte militaire dienst, of, in geval van de door de wet erkende gewetensbezwaren: de dienst gevorderd in plaats van de verplichte militaire dienst;
+De doodstraf en de burgerlijke dood zijn afgeschaft, zij kunnen niet opnieuw worden ingevoerd, zelfs niet onder het krijgsrecht.
+### Artikel 14. Foltering
+Het verbod op onderwerping aan foltering, of aan een onmenselijke of vernederende behandeling of straf, is onschendbaar.
+### Artikel 15. Dwangarbeid
+Niemand mag worden gedwongen om arbeid te verrichten, dan ingevolge:
+1. de taakstraf die hem door de rechter overeenkomstig de wet is opgelegd;
+2. de militaire dienstplicht, of, in geval van gewetensbezwaren, de dienstplicht gevorderd in plaats van de gewapende militaire dienst;
 3. een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
-4. de diensten die deel uitmaken van de normale burgerplichten.
+4. de normale burgerplichten.
 ### Artikel 15.
-1. Iedereen heeft recht op persoonlijke vrijheid en vrijheid van beweging. Niemand mag de vrijheid worden ontnomen, dan volgens de bij wet bepaalde procedure in geval van:
+1. Iedereen heeft recht op persoonlijke vrijheid en vrijheid van beweging. Niemand mag de vrijheid worden ontnomen, volgens de bij wet bepaalde procedure in geval van:
    - rechtmatige detentie na veroordeling door de daartoe bevoegde rechter;
    - rechtmatige arrestatie of detentie wegens het niet naleven van een rechterlijk bevel, dat overeenkomstig de wet gegeven is;
    - 
