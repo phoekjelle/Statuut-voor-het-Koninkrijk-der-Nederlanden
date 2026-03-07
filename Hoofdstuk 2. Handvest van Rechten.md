@@ -1,8 +1,8 @@
 # Hoofdstuk 2. Grondrechten
-## § 1. 
+## § 1. Inleiding en toepassing
 ### Artikel 7. Inleiding
 1. Dit hoofdstuk omvat en waarborgt de grondrechten die in het Koninkrijk gelden.
-2. Het respecteren, beschermen, bevorderen en verwezenlijken van de grondrechten is de gezamenlijke plicht van het Koninkrijk en elk der landen.
+2. Het respecteren, beschermen, bevorderen en verwezenlijken van de grondrechten is de gezamenlijke plicht van elk van de landen en van het Koninkrijk.
 3. De grondrechten zijn bindend voor de wetgevende, uitvoerende en rechtsprekende macht, en voor alle overheidsinstellingen.
 ### Artikel 8. Toepassing
 1. Een in dit hoofdstuk opgenomen bepaling is bindend voor een natuurlijke of rechtspersoon indien en voor zover deze van toepassing is, daarbij rekening houdend met aard van het grondrecht en de aard van de eventuele plicht die uit dat grondrecht voortvloeit.
@@ -10,6 +10,7 @@
     - moet de rechter, teneinde aan een grondrecht gevolg te geven, de regels van het gemeen recht toepassen of, indien nodig, ontwikkelen voor zover wetgeving aan dat grondrecht geen gevolg geeft;
     - kan de rechter regels van het gemeen recht ontwikkelen om dat grondrecht te beperken, mits de bepaling die beperking toestaat en mits die beperking in overeenstemming is met de beginselen van de democratische rechtsstaat.
 3. Een rechtspersoon heeft aanspraak op een van de grondrechten voor zover de aard van dat grondrecht en de aard van die rechtspersoon dat vereisen.
+## § 2. 
 ### Artikel 9. Rechtsgelijkheid
 Iedereen is gelijk voor de wet en heeft gelijke aanspraak op alle rechten en vrijheden.
 ## § 2.
