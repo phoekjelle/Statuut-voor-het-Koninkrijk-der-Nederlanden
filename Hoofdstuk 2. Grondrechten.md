@@ -25,5 +25,10 @@ De doodstraf en de burgerlijke dood zijn afgeschaft; zij kunnen niet opnieuw wor
 3. Deze rechten zijn onschendbaar.
 ### Artikel 14. Foltering
 Niemand mag aan foltering worden onderworpen, noch aan een onmenselijke of vernederende behandeling of straf. Dit recht is onschendbaar.
-### Artikel 15. 
+### Artikel 15. Dwangarbeid
+Niemand mag worden gedwongen om arbeid te verrichten, behalve ingevolge:
+ - de taakstraf die hem door de rechter overeenkomstig de wet is opgelegd;
+ - de militaire dienstplicht, of, in geval van gewetensbezwaren, de dienstplicht gevorderd in plaats van de gewapende militaire dienst;
+ - een noodtoestand of ramp die het leven of het welzijn van de gemeenschap bedreigt;
+ - de normale burgerplichten.
 ## § 3. 
